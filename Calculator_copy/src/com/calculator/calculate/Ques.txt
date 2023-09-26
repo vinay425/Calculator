@@ -1,0 +1,6 @@
+Create Calculator application -
+1.It should support all basic mathematical calculations .
+2.Code should be extendable to accomodate future functionality with ease.
+3.Functionality to save the calculation for future reference .
+4.Functionality to load the past calculations which was saved earlier .
+5.You can either have a gui for this or can also make a command line application.
